@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MorningjetpackComposeclass</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_layoutactivity">layoutactivity</string>
+    <string name="title_activity_imageactivity">imageactivity</string>
+    <string name="title_activity_textfieldactivity">Textfieldactivity</string>
+    <string name="title_activity_list">listActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_cardasign">cardasign</string>
+    <string name="title_activity_imagetext">imagetextActivity</string>
+</resources>
